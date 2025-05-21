@@ -2,12 +2,12 @@
   <mj-body background-color="#F4F4F4">
     <mj-section background-color="#32754c" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" src="./Media/cabecera.jpg" alt="Cartel del Salón del comic" />
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/cabecera.jpg" alt="Cartel del Salón del comic" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" src="./Media/stands.jpg" alt="Stands" />
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/stands.jpg" alt="Stands" />
         <mj-text align="center" font-size="15px">
           El salón del comic de Valencia llega este <b>28 de Febrero al 2 de Marzo</b> <br />
           con todas las novedades del mundo cómic, anime, manga y webtoon.
@@ -22,7 +22,7 @@
           Los amantes de los juegos de mesa y rol también tiene su espacio especial aquí.<br />
         </mj-text>
 
-        <mj-image align="center" src="./Media/stand.jpg" alt="Stand Figuras" />
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/stand.jpg" alt="Stand Figuras" />
 
         <mj-spacer height="50px" />
         <mj-divider  />
@@ -31,7 +31,7 @@
           Con premios de hasta 1.000€ en categorias como Cosmasters e Idol Matsuri<br />
         </mj-text>
 
-        <mj-image align="center" src="./Media/concurso.jpg" alt="Concurso Mitsuri" />
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/concurso.jpg" alt="Concurso Mitsuri" />
 
         <mj-spacer height="50px" />
       </mj-column>
@@ -45,12 +45,12 @@
         </mj-text>
 
         <mj-text align="center">
-            <img src="./Media/emilferris.png" alt="Emil Ferris" width="80px" />
-            <img src="./Media/lucasnine.png" alt="Lucas Nine" width="70px" />
+            <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/emilferris.png" alt="Emil Ferris" width="80px" />
+            <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/lucasnine.png" alt="Lucas Nine" width="70px" />
         </mj-text>
         <mj-text align="center">
-            <img src="./Media/jimbishop.png" alt="Jim Bishop" width="85px" />
-            <img src="./Media/marcelodsalete.png" alt="Marcelo D'Salete" width="80px" />
+            <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/jimbishop.png" alt="Jim Bishop" width="85px" />
+            <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/marcelodsalete.png" alt="Marcelo D'Salete" width="80px" />
         </mj-text>
                 
         <mj-spacer height="50px" />
@@ -61,7 +61,7 @@
           además de las exposiciones "Clásicos del cómic" o "Arte y libertad desde marruecos"<br />
         </mj-text>
         
-        <mj-image align="center" src="./Media/firma.jpeg" alt="Stand de Firmas" ></mj-image>
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/firma.jpeg" alt="Stand de Firmas" ></mj-image>
 
         <mj-spacer height="50px" />
       </mj-column>
@@ -69,7 +69,7 @@
     <mj-section background-color="white" background-size="auto" padding="20px 0px 20px 0px" text-align="center">
       <mj-column>
         <mj-text align="center" color="grey" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"> ¡QUE NO TE LO CUENTEN! </mj-text>
-        <mj-image align="center" alt="Logo salón comic valencia" src="./Media/logo2.png" width="142px"></mj-image>
+        <mj-image align="center" alt="Logo salón comic valencia" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/logo2.png" width="142px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="black" padding="20px 0" text-align="center">
@@ -84,7 +84,7 @@
     </mj-section>
     <mj-section padding="20px 0px 20px 0px" text-align="center">
       <mj-column>
-        <mj-image src="./Media/cabeceraconcodigo.jpg" alt="Cartel Cabecera Con QR" />
+        <mj-image src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/cabeceraconcodigo.jpg" alt="Cartel Cabecera Con QR" />
       </mj-column>
     </mj-section>
   </mj-body>
