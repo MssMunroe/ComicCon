@@ -14,6 +14,13 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
+    <mj-column>
+      <mj-button background-color="black" color="white" href="https://entradascomicvalencia.feriavalencia.com/ticket.do?metodo=lista">
+        COMPRA TUS ENTRADAS AQUÍ
+      </mj-button>
+    </mj-column>
+    </mj-section>
     <mj-section background-color="white" background-size="auto" padding="20px 0px 20px 0px" text-align="center">
       <mj-column width="50%">
         <mj-divider  />
@@ -80,6 +87,12 @@
             <b>Salón Del Comic Valencia</b>
           </a>
         </mj-text>
+        <mj-social>
+          <mj-social-element name="facebook" href="https://www.facebook.com/feriavalencia" background-color="darkblue" />
+          <mj-social-element name="youtube" href="https://www.youtube.com/@FeriaValencia" background-color="darkred" />
+          <mj-social-element name="instagram" href="https://www.instagram.com/saloncomicvalencia" background-color="purple" />
+          <mj-social-element name="twitter" href="https://www.twitter.com/saloncomicvlc" background-color="blue" />         
+        </mj-social>
       </mj-column>
     </mj-section>
     <mj-section padding="20px 0px 20px 0px" text-align="center">
