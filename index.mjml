@@ -2,7 +2,7 @@
   <mj-body background-color="#F4F4F4">
     <mj-section background-color="#32754c" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/cabecera.jpg" alt="Cartel del Salón del comic" />
+        <mj-image align="center" src="file:///media/dam/Goose/Practicas/ComicCon/Media/cabecera.jpg" alt="Cartel del Salón del comic" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 0" text-align="center">
