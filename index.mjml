@@ -8,6 +8,9 @@
     <mj-section background-color="#ffffff" padding="20px 0" text-align="center">
       <mj-column>
         <mj-image align="center" src="https://serverimagenes.duckdns.org/stands.jpg" alt="Stands" />
+        <mj-text align="center" font-size="20px">
+          ⭐ ¡ Buenas, {{nombre}} ! ⭐
+        </mj-text>
         <mj-text align="center" font-size="15px">
           El <span style="color:#32754c ; text-decoration:underline">Salón del Comic</span> de Valencia llega este <span style="font-size:20px ; font-weight:bold">28 de Febrero al 2 de Marzo</span>
           con todas las novedades del mundo cómic, anime, manga y webtoon.
