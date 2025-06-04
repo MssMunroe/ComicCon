@@ -2,15 +2,19 @@
   <mj-body background-color="#F4F4F4">
     <mj-section background-color="#32754c" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" src="https://serverimagenes.duckdns.org/cab.jpg" alt="Cartel del Salón del comic" />
+        <!-- <mj-image align="center" src="https://serverimagenes.duckdns.org/cab.jpg" alt="Cartel del Salón del comic" /> -->
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/cab.jpg" alt="Cartel del Salón del comic" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" src="https://serverimagenes.duckdns.org/stands.jpg" alt="Stands" />
-        <mj-text align="center" font-size="20px">
+        <!-- <mj-image align="center" src="https://serverimagenes.duckdns.org/stands.jpg" alt="Stands" /> -->
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/stands.jpg" alt="Stands" />
+
+        <!-- Para la personalización del correo -->
+        <!-- <mj-text align="center" font-size="20px">
           ⭐ ¡ Buenas, {{nombre}} ! ⭐
-        </mj-text>
+        </mj-text> -->
         <mj-text align="center" font-size="15px">
           El <span style="color:#32754c ; text-decoration:underline">Salón del Comic</span> de Valencia llega este <span style="font-size:20px ; font-weight:bold">28 de Febrero al 2 de Marzo</span>
           con todas las novedades del mundo cómic, anime, manga y webtoon.
@@ -28,14 +32,16 @@
         <mj-text align="center" font-family="Arial, sans-serif" font-size="22px" font-weight="bold" line-height="28px" padding="20px" text-transform="uppercase"> Áreas de juego y rol </mj-text>
         <mj-text align="justify" font-family="Arial, sans-serif" font-size="17px" line-height="28px" padding="25px"> Los amantes de los juegos de mesa y rol también tiene su espacio especial aquí.</mj-text>
 
-        <mj-image align="center" src="https://serverimagenes.duckdns.org/stand.jpg" alt="Stand Figuras" />
+        <!-- <mj-image align="center" src="https://serverimagenes.duckdns.org/stand.jpg" alt="Stand Figuras" /> -->
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/stand.jpg" alt="Stand Figuras" />
 
         <mj-spacer height="50px" />
         <mj-divider />
         <mj-text align="center" font-family="Arial, sans-serif" font-size="22px" font-weight="bold" line-height="28px" padding="20px" text-transform="uppercase"> Los concursos más cañeros </mj-text>
         <mj-text align="justify" font-family="Arial, sans-serif" font-size="17px" line-height="28px" padding="25px"> Con premios de hasta 1.000€ en categorias como Cosmasters e Idol Matsuri.</mj-text>
 
-        <mj-image align="center" src="https://serverimagenes.duckdns.org/concurso.jpg" alt="Concurso Mitsuri" />
+        <!-- <mj-image align="center" src="https://serverimagenes.duckdns.org/concurso.jpg" alt="Concurso Mitsuri" /> -->
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/concurso.jpg" alt="Concurso Mitsuri" />
 
         <mj-spacer height="50px" />
       </mj-column>
@@ -48,12 +54,16 @@
         </mj-text>
 
         <mj-text align="center">
-          <img src="https://serverimagenes.duckdns.org/emilferris.png" alt="Emil Ferris" width="120px" />
-          <img src="https://serverimagenes.duckdns.org/lucasnine.png" alt="Lucas Nine" width="100px" />
+          <!-- <img src="https://serverimagenes.duckdns.org/emilferris.png" alt="Emil Ferris" width="120px" /> -->
+          <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/emilferris.png" alt="Emil Ferris" width="120px" />
+          <!-- <img src="https://serverimagenes.duckdns.org/lucasnine.png" alt="Lucas Nine" width="100px" /> -->
+          <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/lucasnine.png" alt="Lucas Nine" width="100px" />
         </mj-text>
         <mj-text align="center">
-          <img src="https://serverimagenes.duckdns.org/jimbishop.png" alt="Jim Bishop" width="120px" />
-          <img src="https://serverimagenes.duckdns.org/marcelodsalete.png" alt="Marcelo D'Salete" width="112px" />
+          <!-- <img src="https://serverimagenes.duckdns.org/jimbishop.png" alt="Jim Bishop" width="120px" /> -->
+          <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/jimbishop.png" alt="Jim Bishop" width="120px" />
+          <!-- <img src="https://serverimagenes.duckdns.org/marcelodsalete.png" alt="Marcelo D'Salete" width="112px" /> -->
+          <img src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/marcelodsalete.png" alt="Marcelo D'Salete" width="112px" />
         </mj-text>
 
         <mj-spacer height="50px" />
@@ -63,7 +73,8 @@
           Interesantes firmas y charlas sobre las últimas novedades, además de las exposiciones "Clásicos del cómic" o "Arte y libertad desde marruecos"
         </mj-text>
 
-        <mj-image align="center" src="https://serverimagenes.duckdns.org/firma.jpeg" alt="Stand de Firmas"></mj-image>
+        <!-- <mj-image align="center" src="https://serverimagenes.duckdns.org/firma.jpeg" alt="Stand de Firmas"></mj-image> -->
+        <mj-image align="center" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/firma.jpeg" alt="Stand de Firmas"></mj-image>
 
         <mj-spacer height="50px" />
       </mj-column>
@@ -71,7 +82,8 @@
     <mj-section background-color="white" background-size="auto" padding="20px 0px 20px 0px" text-align="center">
       <mj-column>
         <mj-text align="center" color="grey" font-family="Arial, sans-serif" font-size="18px" line-height="28px" padding="0px 25px 0px 25px"> ¡QUE NO TE LO CUENTEN! </mj-text>
-        <mj-image align="center" alt="Logo salón comic valencia" src="https://serverimagenes.duckdns.org/logo2.png" width="142px"></mj-image>
+        <!-- <mj-image align="center" alt="Logo salón comic valencia" src="https://serverimagenes.duckdns.org/logo2.png" width="142px"></mj-image> -->
+        <mj-image align="center" alt="Logo salón comic valencia" src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/logo2.png" width="142px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="black" padding="20px 0" text-align="center">
@@ -92,7 +104,8 @@
     </mj-section>
     <mj-section padding="20px 0px 20px 0px" text-align="center">
       <mj-column>
-        <mj-image src="https://serverimagenes.duckdns.org/cabcodigo.jpg" alt="Cartel Cabecera Con QR" />
+        <!-- <mj-image src="https://serverimagenes.duckdns.org/cabcodigo.jpg" alt="Cartel Cabecera Con QR" /> -->
+        <mj-image src="https://raw.githubusercontent.com/MssMunroe/ComicCon/refs/heads/main/Media/cabcodigo.jpg" alt="Cartel Cabecera Con QR" />
       </mj-column>
     </mj-section>
   </mj-body>
