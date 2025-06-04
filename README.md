@@ -1,18 +1,45 @@
-**Reto de Feria Valencia para las prácticas**
 
-
-#¿De que trata esto?
-
-
-El reto está diseñado para que nos familiaricemos con el lenguaje MJML y lo apliquemos a una serie de supuestos prácticos reales. 
-
-Debemos utilizar MJML para diseñar y crear correos electrónicos que respondan a situaciones reales y verosímiles, enfrentando y resolviendo problemas mediante la tecnología.
-
-En este caso, el supuesto que he elegido yo es:
+# Reto de Feria Valencia para las prácticas
 
 *"Creación de un boletín informativo para Salón del Cómic de València, destacando noticias y promociones especiales."*
 
-Debemos diseñar tanto el MJML que corresponderá al diseño de la visualiación del correo, como una estrategía de marketing para conseguir llegar, en mi caso, al máximo de personas para que compren entradas para el Salón del Comic de Valencia.
+## 🔧 Estrategia de Marketing para el Salón del Cómic 
 
-Adjunto en este repositorio esta tanto el MJML original, como su traducción en HTML, además de las imágenes usadas.
+Este repositorio recopila los recursos usados para desarrolar una campaña de marketing digital centrada en la promoción del **Salón del Cómic**, el evento cultural que se celebra todos los años ne Feria Valencnia donde se reunen los aficionados a los cómics, mangas y todo el universo cinematográfico. 
 
+El proyecto incluye el diseño de un **newsletter MJML/HTML**, su integración un **servidor en la nube de imágenes**, la automatización de envío de correos y una estrategia de comunicación orientada a las **Redes Sociales**.
+
+
+## 🎯 Objetivo
+
+Diseñar e implementar una campaña de marketing digital que aumente la visibilidad del Salón del Cómic, mejore la participación y refuerce la conexión emocional con su comunidad.
+
+## 📁 Contenidos del repositorio
+
+- `newsletter/index.html`: Diseño principal del boletín digital en HTML, pensado para su envío por correo electrónico.
+- `media/`: Carpeta de imágenes.
+- `js/`: Archivos relacionados con la implementación del servidor.
+- `Formulario.md`: Documento para ver las preguntas que se hicieron para los resultados del diseño.
+- `ProyectoComicCon.pdf`: Documento que detalla el analisis, el diseño, la estrategia, creación del servidor y una conclusión de lo aprendido.
+- `README.md`: Este archivo.
+
+## 💻 Tecnologías utilizadas
+
+- **HTML/MJML**: Para la maquetación del boletín.
+- **Servidor en la nube** (AWS, Node.js y MySQL): Para alojar y probar el diseño de forma autónoma, así como la creación de una base de datos.
+- **Herramientas de analítica**: Formularios para obtener feedback de las opiniones de los usuarios.
+
+## 🧠 Funcionalidades implementadas
+
+- Diseño visual atractivo y adaptable a distintos dispositivos.
+- Segmentación básica del público objetivo para personalizar el contenido.
+- Automatización del envío.
+- Análisis de resultados para evaluar el impacto del newsletter.
+
+## ✍️ Autor
+
+**Irene M.R.   as    Mss Munroe**  
+Estudiante de DAM
+[@MssMunroe]
+
+---
